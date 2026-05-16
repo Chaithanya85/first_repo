@@ -1,3 +1,3 @@
 # first_repo
 this is my first GIT repository
-AUTHOR:CHAITHANYA
+AUTHOR:CHAITHANYA SANTHOSH
